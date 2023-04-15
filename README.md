@@ -1,3 +1,3 @@
 # Fusely
 
-# [LINK]('https://davidkuknishvili.github.io/Fusely/')
+# [LINK](https://davidkuknishvili.github.io/Fusely/)
