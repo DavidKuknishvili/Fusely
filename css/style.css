@@ -334,6 +334,35 @@
     padding-left: 0;
     padding-right: 0;
   }
+  .container {
+    width: 100%;
+  }
+  .w-100 {
+    width: 100%;
+  }
+  .secondary-package {
+    width: 222px;
+  }
+  .primary-package {
+    width: 272px;
+  }
+  .footer-conatiner {
+    display: flex;
+    width: 100%;
+    gap: 0;
+    justify-content: space-around;
+  }
+  .partners {
+    width: 100%;
+    justify-content: space-around;
+    gap: 0;
+  }
+  .partners_ {
+    gap: 75px;
+  }
+  .contact-banner-conatiner {
+    padding: 84px 44px;
+  }
 }
 @media only screen and (max-width: 768px) {
   .mobile {
